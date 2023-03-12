@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 380px;
+    height: 400px;
+    background-color: whitesmoke;
+    margin-left: 500px;
+    margin-top: 130px;
+}
+.img{
+
+    border: 1px solid wheat;
+    border-radius: 500px;
+    margin-top: -120px;
+    margin-left: 145px;
+
+}
+.img1{
+    margin-top: -133px;
+    margin-left: 170px;
+}
+.container2{
+    width: 380px;
+    height: 80px;
+    background-color: rgba(227, 0, 79, 1);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-top: 120px;
+}
+.h2{
+text-align: center;
+font-weight: 500;
+font-size: 36px;
+margin-top: -90px;
+color: rgba(255, 255, 255, 1)
+}
+.h3{
+    width: 320px;
+    height: 80px;
+   
+}
+.s1{
+    font-weight: 400;
+    font-size: 36px;
+    padding-left: 30px;
+    color: rgba(88, 103, 139, 1);
+    
+}
+.oval{
+    width: 30px;
+    height: 30px;
+    background-color: rgba(255, 43, 163, 1);
+    float: right;
+    border-radius: 250px;
+    margin-top: 10px;
+    line-height: 30px;
+    text-align: center;
+}
+.s2{
+    font-weight: 500;
+    font-size: 20px;
+   text-align: center;
+   padding-top: 20px;
+   color: rgba(255, 255, 255, 1)
+}
+.h4{
+    width: 320px;
+    height: 80px;
+   
+}
+.s3{
+    font-weight: 400;
+    font-size: 36px;
+    padding-left: 30px;
+    color: rgba(88, 103, 139, 1);
+    
+}
+.oval1{
+    width: 30px;
+    height: 30px;
+    background-color: rgba(144, 19, 254, 1);
+    float: right;
+    border-radius: 250px;
+    margin-top: 10px;
+    line-height: 30px;
+    text-align: center
+}
+.s4{
+    font-weight: 500;
+    font-size: 20px;
+   text-align: center;
+   padding-top: 20px;
+   color: rgba(255, 255, 255, 1)
+   
+}
+.h5{
+    width: 320px;
+    height: 80px;
+    
+}
+.s5{
+    font-weight: 400;
+    font-size: 36px;
+    padding-left: 30px;
+    color: rgba(88, 103, 139, 1);
+    
+}
+.oval2{
+    width: 30px;
+    height: 30px;
+    background-color: rgba(0, 208, 230, 1);
+    float: right;
+    border-radius: 250px;
+    margin-top: 10px;
+    line-height: 30px;
+    text-align: center
+}
+.s6{
+    font-weight: 500;
+    font-size: 20px;
+   text-align: center;
+   padding-top: 20px;
+   color: rgba(255, 255, 255, 1);
+   
+}
